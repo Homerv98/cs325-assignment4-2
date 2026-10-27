@@ -34,7 +34,7 @@ def max_independent_set(nums):
     return result
 
 
-print(max_independent_set([7, 2, 5, 8, 6]))
-print(max_independent_set([-1, -1, 0]))
-print(max_independent_set([-1, -1, -10, -34]))
-print(max_independent_set([10, -3, 0]))
+#print(max_independent_set([7, 2, 5, 8, 6]))
+#print(max_independent_set([-1, -1, 0]))
+#print(max_independent_set([-1, -1, -10, -34]))
+#print(max_independent_set([10, -3, 0]))
